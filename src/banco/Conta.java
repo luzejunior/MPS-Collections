@@ -41,6 +41,6 @@ public class Conta {
 	}
 	
 	public String toString(){
-		return "Numero da conta: " + this.numero + "com saldo: " + this.saldo;
+		return "Numero da conta: " + this.numero + " com saldo: " + this.saldo;
 	}
 }

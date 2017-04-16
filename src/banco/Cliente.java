@@ -29,6 +29,6 @@ public class Cliente {
 	}
 	
 	public String toString(){
-		return "Cliente de CPF: " + this.cpf + "e nome: " + this.nome;
+		return "Cliente de CPF: " + this.cpf + " e nome: " + this.nome;
 	}
 }
